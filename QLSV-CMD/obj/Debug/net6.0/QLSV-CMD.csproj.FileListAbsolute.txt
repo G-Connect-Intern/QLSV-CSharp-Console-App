@@ -1,0 +1,15 @@
+D:\HocTap\G-Connect\QLSV-cmd\QLSV-CMD\bin\Debug\net6.0\QLSV-CMD.exe
+D:\HocTap\G-Connect\QLSV-cmd\QLSV-CMD\bin\Debug\net6.0\QLSV-CMD.deps.json
+D:\HocTap\G-Connect\QLSV-cmd\QLSV-CMD\bin\Debug\net6.0\QLSV-CMD.runtimeconfig.json
+D:\HocTap\G-Connect\QLSV-cmd\QLSV-CMD\bin\Debug\net6.0\QLSV-CMD.dll
+D:\HocTap\G-Connect\QLSV-cmd\QLSV-CMD\bin\Debug\net6.0\QLSV-CMD.pdb
+D:\HocTap\G-Connect\QLSV-cmd\QLSV-CMD\obj\Debug\net6.0\QLSV-CMD.csproj.AssemblyReference.cache
+D:\HocTap\G-Connect\QLSV-cmd\QLSV-CMD\obj\Debug\net6.0\QLSV-CMD.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocTap\G-Connect\QLSV-cmd\QLSV-CMD\obj\Debug\net6.0\QLSV-CMD.AssemblyInfoInputs.cache
+D:\HocTap\G-Connect\QLSV-cmd\QLSV-CMD\obj\Debug\net6.0\QLSV-CMD.AssemblyInfo.cs
+D:\HocTap\G-Connect\QLSV-cmd\QLSV-CMD\obj\Debug\net6.0\QLSV-CMD.csproj.CoreCompileInputs.cache
+D:\HocTap\G-Connect\QLSV-cmd\QLSV-CMD\obj\Debug\net6.0\QLSV-CMD.dll
+D:\HocTap\G-Connect\QLSV-cmd\QLSV-CMD\obj\Debug\net6.0\refint\QLSV-CMD.dll
+D:\HocTap\G-Connect\QLSV-cmd\QLSV-CMD\obj\Debug\net6.0\QLSV-CMD.pdb
+D:\HocTap\G-Connect\QLSV-cmd\QLSV-CMD\obj\Debug\net6.0\QLSV-CMD.genruntimeconfig.cache
+D:\HocTap\G-Connect\QLSV-cmd\QLSV-CMD\obj\Debug\net6.0\ref\QLSV-CMD.dll
